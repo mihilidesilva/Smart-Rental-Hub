@@ -117,4 +117,4 @@ Main tables used in the system:
 
 ---
 
-## 📌 Developed by Team Smart Rental Hub — National Institute of Business Management, School of Computing & Engineering
+📌 Developed by Team Smart Rental Hub — National Institute of Business Management, School of Computing & Engineering
