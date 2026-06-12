@@ -1,4 +1,4 @@
-# Enterprise-Application-Development-02-project-Smart-Rental-Hub
+# Smart Rental Hub
 
 Smart Rental Hub is a web-based house rental management system developed as part of the **Enterprise Application Development 2 (EAD2)** module under **HNDSE at NIBM** 💻✨
 
